@@ -9,5 +9,7 @@ int change(int year){
 int main(){
     int x;
     printf("%d",change(25));
+    printf("%d",change(25));
+
     return 0;
 }
